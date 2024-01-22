@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: streamhub UI Portal
+  name: streamhubui-portal
   description: Portal for StreamUI.
   # Example for optional annotations
   # annotations:
